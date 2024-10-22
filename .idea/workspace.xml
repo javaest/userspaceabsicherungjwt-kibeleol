@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edfb25c1-0564-49db-8d07-15caa55c7b68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/infos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/SpringBootSecurityJwtApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/SpringBootSecurityJwtApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/controllers/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/controllers/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/models/ERole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/models/ERole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/models/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/models/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/payload/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/payload/request/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/payload/request/SignupRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/payload/request/SignupRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/payload/response/JwtResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/payload/response/JwtResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/payload/response/MessageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/payload/response/MessageResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/jwt/AuthEntryPointJwt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/jwt/AuthEntryPointJwt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/jwt/AuthTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/jwt/AuthTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/jwt/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/jwt/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/services/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/services/UserDetailsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/services/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bezkoder/springjwt/security/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bezkoder/springjwt/SpringBootSecurityJwtApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bezkoder/springjwt/SpringBootSecurityJwtApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.bezkoder/spring-boot-security-jwt/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.bezkoder/spring-boot-security-jwt/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/SpringBootSecurityJwtApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/SpringBootSecurityJwtApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/controllers/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/controllers/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/controllers/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/controllers/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/models/ERole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/models/ERole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/models/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/models/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/payload/request/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/payload/request/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/payload/request/SignupRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/payload/request/SignupRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/payload/response/JwtResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/payload/response/JwtResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/payload/response/MessageResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/payload/response/MessageResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/repository/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/repository/RoleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/jwt/AuthEntryPointJwt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/jwt/AuthEntryPointJwt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/jwt/AuthTokenFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/jwt/AuthTokenFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/jwt/JwtUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/jwt/JwtUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/services/UserDetailsImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/services/UserDetailsImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/services/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bezkoder/springjwt/security/services/UserDetailsServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2nneJ0j1QrW5mnzOMwJo76ebYZi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/olive/eclipse-workspace/userspaceabsicherungjwt-kibeleol"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="userspaceabsicherungjwt-kibeleol" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="userspaceabsicherungjwt-kibeleol" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edfb25c1-0564-49db-8d07-15caa55c7b68" name="Changes" comment="" />
+      <created>1729613198923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729613198923</updated>
+    </task>
+    <servers />
+  </component>
+</project>
